@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="993182408">
+    <data-source source="LOCAL" name="Rails titz: default" uuid="80cd1359-21f9-4c9f-96a3-5a8120cc8daa">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/titz</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails titz: development" uuid="ee891ba9-5afe-41c7-875c-b585f4fa03ea">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/titz</jdbc-url>
+      <user-name>root</user-name>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails titz: test" uuid="b8487ae6-23ad-4664-96b1-d8487e5a29a6">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/titz</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails titz: production" uuid="7d654fbd-1feb-45bd-8b1b-d47ce97eb3ba">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/titz</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
